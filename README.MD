@@ -16,8 +16,10 @@ Permite registrar un producto, calcular el subtotal y aplicar un descuento gener
 ## Lenguaje:
     Python 3
 
+##24 abril 2025
+
 ## Cambios:
-24 abril 2025
+
 Se optimizó el programa reduciendo el número de condicionales while, pasando de 3 a solo 1, el cual ahora engloba todas las funcionalidades del sistema. Además, se implementaron listas que permiten almacenar todos los productos que el usuario desee agregar. El programa termina cuando el usuario ingresa "N" en la consola. En la salida, se muestran los productos de manera detallada, con los siguientes datos: nombre, precio, cantidad, descuento aplicado y total con descuento y al final muestra el total de todos los productos.
 
 ## Cambio:
