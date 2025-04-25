@@ -16,7 +16,7 @@ Permite registrar un producto, calcular el subtotal y aplicar un descuento gener
 ## Lenguaje:
     Python 3
 
- ##24 abril 2025
+ ## 24 abril 2025
 
 ## Cambios:
 
